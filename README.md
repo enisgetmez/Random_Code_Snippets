@@ -1,5 +1,5 @@
 # Random_Code_Snippets
-Random code snippet images with javascript
+Random code snippets images with javascript
 
 Demo url : [https://hackers.istanbul/random_kod](https://hackers.istanbul/random_kod)
 Demo url 2 : [https://www.hackers.istanbul/ufak-tefek-kodlar/](https://www.hackers.istanbul/ufak-tefek-kodlar/)
